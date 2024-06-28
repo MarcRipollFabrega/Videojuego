@@ -4,7 +4,7 @@ Juego realizado en processing como practica final de programación creativa
 Marc Ripoll Fabrega
 www.linkedin.com/in/marcripollfàbrega
 ## Proyecto en vivo
-https://marcripollfabrega.github.io/Videojuego/
+https://youtu.be/VoQNfzLdolU
 
 ## Licencia
 No puede usarse comercialmente
